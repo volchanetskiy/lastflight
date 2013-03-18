@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Последний полёт</string>
+    <string name="journal">Журнал</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="milliseconds">мс</string>
+    <string name="minimum_loading_factor">Минимальная перегрузка:</string>
+    <string name="maximum_loading_factor">Максимальная перегрузка:</string>
+    
+
+</resources>

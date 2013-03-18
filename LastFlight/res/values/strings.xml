@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Last Flight</string>
+    <string name="journal">Journal</string>
+    <string name="milliseconds">ms</string>
+    <string name="minimum_loading_factor">Minimum loading factor:</string>
+    <string name="maximum_loading_factor">Maximum loading factor:</string>
+    
+
+</resources>
